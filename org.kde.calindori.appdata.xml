@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ SPDX-FileCopyrightText: 2020 Dimitris Kardarakos <dimkard@posteo.net>
+ SPDX-License-Identifier: CC0-1.0
+-->
+<component type="desktop">
+  <id>org.kde.calindori.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Calindori</name>
+  <name xml:lang="ca">Calindori</name>
+  <name xml:lang="ca-valencia">Calindori</name>
+  <name xml:lang="cs">Calindori</name>
+  <name xml:lang="da">Calindori</name>
+  <name xml:lang="de">Calindori</name>
+  <name xml:lang="el">Calindori</name>
+  <name xml:lang="en-GB">Calindori</name>
+  <name xml:lang="es">Calindori</name>
+  <name xml:lang="et">Calindori</name>
+  <name xml:lang="eu">Calindori</name>
+  <name xml:lang="fi">Calindori</name>
+  <name xml:lang="fr">Calindori</name>
+  <name xml:lang="gl">Calindori</name>
+  <name xml:lang="ia">Calindori</name>
+  <name xml:lang="id">Calindori</name>
+  <name xml:lang="it">Calindori</name>
+  <name xml:lang="nl">Calindori</name>
+  <name xml:lang="nn">Calindori</name>
+  <name xml:lang="pl">Calindori</name>
+  <name xml:lang="pt">Calindori</name>
+  <name xml:lang="pt-BR">Calindori</name>
+  <name xml:lang="ru">Calindori</name>
+  <name xml:lang="sk">Calindori</name>
+  <name xml:lang="sl">Calindori</name>
+  <name xml:lang="sv">Calindori</name>
+  <name xml:lang="uk">Calindori</name>
+  <name xml:lang="x-test">xxCalindorixx</name>
+  <name xml:lang="zh-TW">Calindori</name>
+  <summary>Calendar application</summary>
+  <summary xml:lang="ca">Aplicació de calendari</summary>
+  <summary xml:lang="ca-valencia">Aplicació de calendari</summary>
+  <summary xml:lang="cs">Aplikace kalendáře</summary>
+  <summary xml:lang="da">Kalenderprogram</summary>
+  <summary xml:lang="de">Kalenderprogramm</summary>
+  <summary xml:lang="el">Εφαρμογή ημερολογίου</summary>
+  <summary xml:lang="en-GB">Calendar application</summary>
+  <summary xml:lang="es">Aplicación de calendarios</summary>
+  <summary xml:lang="et">Kalendrirakendus</summary>
+  <summary xml:lang="eu">Egutegiko aplikazioa</summary>
+  <summary xml:lang="fi">Kalenterisovellus</summary>
+  <summary xml:lang="fr">Application d'agenda</summary>
+  <summary xml:lang="gl">Aplicación de calendario</summary>
+  <summary xml:lang="ia">Application de calendario</summary>
+  <summary xml:lang="id">Aplikasi kalender</summary>
+  <summary xml:lang="it">Applicazione calendario</summary>
+  <summary xml:lang="nl">Agendatoepassing</summary>
+  <summary xml:lang="nn">Kalenderprogram</summary>
+  <summary xml:lang="pl">Aplikacja kalendarza</summary>
+  <summary xml:lang="pt">Aplicação de calendário</summary>
+  <summary xml:lang="pt-BR">Aplicativo de calendário</summary>
+  <summary xml:lang="sk">Aplikácia Calendar</summary>
+  <summary xml:lang="sl">Aplikacija koledar</summary>
+  <summary xml:lang="sv">Kalenderprogram</summary>
+  <summary xml:lang="uk">Програма-календар</summary>
+  <summary xml:lang="x-test">xxCalendar applicationxx</summary>
+  <summary xml:lang="zh-TW">行事曆應用程式</summary>
+  <description>
+    <p>Calindori is a touch friendly calendar application. It has been designed for mobile devices but it can also run on desktop environments. Users of Calindori are able to check previous and future dates and manage tasks and events.</p>
+    <p xml:lang="ca">El Calindori és una aplicació de calendari tàctil. Està dissenyada per als dispositius mòbils, però també es pot executar als entorns d'escriptori. El usuaris del Calindori poden revisar dates anteriors i futures i gestionar tasques i esdeveniments.</p>
+    <p xml:lang="ca-valencia">El Calindori és una aplicació de calendari tàctil. Està dissenyada per als dispositius mòbils, però també es pot executar als entorns d'escriptori. L'usuaris del Calindori poden revisar dates anteriors i futures i gestionar tasques i esdeveniments.</p>
+    <p xml:lang="da">Calindori er et touch-venligt kalenderprogram. Det er designet til mobile enheder, men det kan også køre i skrivebordsmiljøer. Brugere af Calindori kan tjekke tidligere og fremtidige datoer og håndtere opgaver og begivenheder.</p>
+    <p xml:lang="de">Calindori ist eine Kalenderanwendung für Touch-Geräte. Sie wurde für mobile Geräte entwickelt, kann aber auch auf Desktop-Umgebungen ausgeführt werden. Benutzer von Calindori sind in der Lage, frühere und zukünftige Termine zu überprüfen und Aufgaben bzw. Ereignisse zu verwalten.</p>
+    <p xml:lang="el">Το Calindori είναι μια φιλική σε οθόνες αφής εφαρμογή ημερολογίου. Έχει σχεδιαστεί για κινητά αλλά εκτελείται και σε περιβάλλοντα υπολογιστών γραφείου. Οι χρήστες του Calindori μπορούν να ελέγχουν ημερομηνίες στο παρελθόν και στο μέλλον και να διαχειρίζονται εργασίες και γεγονότα.</p>
+    <p xml:lang="en-GB">Calindori is a touch friendly calendar application. It has been designed for mobile devices but it can also run on desktop environments. Users of Calindori are able to check previous and future dates and manage tasks and events.</p>
+    <p xml:lang="es">Calindori es una aplicación de calendarios táctil. Ha sido diseñada para dispositivos móviles, aunque también se puede ejecutar en entornos de escritorio. Los usuarios de Calindori pueden comprobar fechas anteriores y futuras, así como gestionar tareas y eventos.</p>
+    <p xml:lang="et">Calindori on puutetundlik kalendrirakendus. See loodi eelkõige mobiilseadmetele, aga seda saab kasutada ka töölauaarvutites. Calindori kasutajatel on võimalik uurida möödunud ja tulevasi kuupäevi ning korraldada oma ülesandeid ja sündmusi.</p>
+    <p xml:lang="eu">Calindori ukimena onartzen duen egutegiko aplikazio bat da. Gailu mugikorretarako diseinatu den arren, mahaigaineko inguruneetan ere ibili daiteke. Calindori-ren erabiltzaileek igarotako eta etorkizuneko datak arakatu eta eginkizunak eta gertakizunak kudeatu ditzakete.</p>
+    <p xml:lang="fi">Calindori on kosketusnäytölle sopiva kalenterisovellus, joka on suunniteltu mobiililaitteille mutta toimii myös työpöytäympäristössä. Calindorin käyttäjät voivat tarkistaa menneitä ja tulevia päivämääriä sekä hallita tehtäviä ja tapahtumia.</p>
+    <p xml:lang="fr">Calindori est une application d'agenda ergonomique pour les écrans tactiles. Elle a été conçue pour les appareils mobiles mais fonctionne également sur les environnements de bureau. Les utilisateurs de Calindori peuvent consulter les dates passées et futures et gérer les tâches et les évènements.</p>
+    <p xml:lang="gl">Calindori é unha aplicación de calendario optimizada para uso táctil. Deseñouse para dispositivos móbiles pero tamén pode usarse en contornos de escritorio. Os usuarios de Calindori poden consultar datas pasadas e futuras e xestionar tarefas e eventos.</p>
+    <p xml:lang="id">Calindori adalah sebuah aplikasi kalender sentuhan yang akrab. Ini sudah dirancang untuk perangkat genggam tetapi juga bisa berjalan pada lingkungan desktop. Penggunaan Calindori bisa untuk memeriksa sebelumnya dan  keakanan tanggal dan mengelola tugas dan peristiwa.</p>
+    <p xml:lang="it">Calindori è un'applicazione calendario amichevole. È stato progettato per i dispositivi mobili, ma può anche funzionare in ambienti desktop. Gli utenti di Calindori sono in grado di controllare date precedenti e future, e di gestire attività ed eventi.</p>
+    <p xml:lang="nl">Calindori is een agendatoepassing vriendelijk voor aanraken. Het is ontworpen voor mobiele apparaten maar het kan ook in een bureaubladomgeving werken. Gebruikers van Calindori kunnen eerdere en toekomstige datums controleren en taken en afspraken beheren.</p>
+    <p xml:lang="nn">Calindori er eit kalender­program eigna for trykk­skjermar. Det er laga for mobil­telefonar, men kan òg brukast på vanlege datamaskiner. Du kan bruka det som ein kalender og til å halda oversikt over gjeremål og hendingar.</p>
+    <p xml:lang="pl">Calindori jest aplikacją kalendarza przystosowaną do dotyku. Została stworzona dla urządzeń przenośnych, lecz można ją także uruchomić na komputerach stacjonarnych. Użytkownicy Calindori mogą  sprawdzać poprzednie i przyszłe daty oraz zarządzać zadaniami i wydarzeniami.</p>
+    <p xml:lang="pt">O Calindori é uma aplicação de calendário amigável para dispositivos tácteis. Foi desenhada para dispositivos móveis, mas também pode ser executada em computadores. Os utilizadores do Calindori poderão ver as datas anteriores e futuras, assim como gerir as tarefas e eventos.</p>
+    <p xml:lang="pt-BR">O Calindori é um aplicativo de calendário amigável ao toque. Ele foi desenhado para dispositivos móveis mas também pode ser executado em ambientes de trabalho. Os usuários do Calindori podem verificar as datas anteriores e futuras e gerenciar tarefas e eventos.</p>
+    <p xml:lang="sl">Calindori je dotikom prijazna aplikacija za koledar. Zasnovana je za mobilne naprave, vendar lahko deluje tudi v namiznih okoljih. UporabnikiCalindore lahko preverjajo prejšnje in prihodnje datume ter upravljajo z nalogami in dogodki.</p>
+    <p xml:lang="sv">Calindori är ett pekvänligt kalenderprogram. Det har konstruerats för mobilenheter men kan också köra på skrivbordsmiljöer. Användare av Calindori kan kontrollera tidigare och framtida datum, samt hantera uppgifter och händelser.</p>
+    <p xml:lang="uk">Calindori — програма-календар для сенсорних інтерфейсів. Її розроблено для мобільних пристроїв, але нею можна користуватися на звичайних комп'ютерних робочих станціях. Користувачі Calindori можуть читати записи попередніх і майбутніх подій і керувати записами завдань і подій.</p>
+    <p xml:lang="x-test">xxCalindori is a touch friendly calendar application. It has been designed for mobile devices but it can also run on desktop environments. Users of Calindori are able to check previous and future dates and manage tasks and events.xx</p>
+    <p>When executing the application for the first time, a new calendar file is created that follows the ical standard. Alternatively, users may create additional calendars or import existing ones.</p>
+    <p xml:lang="ca">En executar l'aplicació per primera vegada, es crea un fitxer nou de calendari que segueix l'estàndard «ical». Alternativament, els usuaris poden crear calendaris addicionals o importar-ne d'existents.</p>
+    <p xml:lang="ca-valencia">En executar l'aplicació per primera vegada, es crea un fitxer nou de calendari que segueix l'estàndard «ical». Alternativament, els usuaris poden crear calendaris addicionals o importar-ne d'existents.</p>
+    <p xml:lang="da">Når programmet køres første gang oprettes en ny kalenderfil som følger ical-standarden. Alternativt kan brugere oprette yderligere kalendere eller importere eksisterende kalendere.</p>
+    <p xml:lang="de">Beim ersten Start der Anwendung wird ein neuer Kalender nach dem ICal-Standard erstellt. Alternativ können zusätzliche Kalender erstellt oder vorhandene Kalender importiert werden.</p>
+    <p xml:lang="el">Όταν η εφαρμογή εκτελείται για πρώτη φορά, δημιουργείται ένα νέο αρχείο ημερολογίου το οποίο ακολουθεί το πρότυπο ical. Εναλλακτικά, οι χρήστες μπορούν να δημιουργούν νέα ημερολόγια ή να εισάγουν αυτά που υπάρχουν.</p>
+    <p xml:lang="en-GB">When executing the application for the first time, a new calendar file is created that follows the ical standard. Alternatively, users may create additional calendars or import existing ones.</p>
+    <p xml:lang="es">Al ejecutar la aplicación por primera vez, se crea un nuevo archivo de calendario conforme al estándar ical. De forma alternativa, los usuarios pueden crear calendarios adicionales o importar otros existentes.</p>
+    <p xml:lang="et">Rakenduse esmakäivitusel luuakse uus, iCali standardit järgiv kalender. Soovi korral võib kasutaja mõistagi luua lisakalendreid või importida juba olemasolevaid.</p>
+    <p xml:lang="eu">Aplikazioa aurreneko aldiz exekutatzean, egutegiko fitxategi berri bat sortzen da, «ical» estandarrari jarraitzen diona. Horrez gain, erabiltzaileek egutegi osagarriak sortu edo inportatu ditzakete.</p>
+    <p xml:lang="fi">Käynnistettäessä ohjelma ensi kertaa luodaan uusi iCal-standardia noudattava kalenteritiedosto. Käyttäjä voi myös luoda lisää kalentereja tai tuoda olemassa olevia.</p>
+    <p xml:lang="fr">Lors de sa première exécution, l'application crée un nouveau fichier agenda respectant la norme ical. Les utilisateurs peuvent également créer des agendas supplémentaires ou importer des agendas existants.</p>
+    <p xml:lang="gl">Ao executar a aplicación por vez primeira, créase un novo ficheiro de calendario que segue o estándar de iCal. De maneira alternativa, os usuarios poden crear calendarios adicionais ou importar calendarios existentes.</p>
+    <p xml:lang="id">Ketika pengeksekusian aplikasi saat pertama kali, sebuah file kalender baru telah diciptakan yang mengikuti standar ical. Selain itu, pengguna bisa menciptakan kalender tambahan atau mengimpor yang sudah ada.</p>
+    <p xml:lang="it">Quando si esegue l'applicazione per la prima volta viene creato un nuovo file di calendario che segue lo standard ical. In alternativa, gli utenti possono creare dei calendari aggiuntivi, oppure importare quelli esistenti.</p>
+    <p xml:lang="nl">Bij het de eeerste keer uitvoeren van de toepassing, wordt een nieuw agendabestand aangemaakt die de ical-standaard gebruikt. Alternatief kunnen gebruikers extra agenda's aanmaken of bestaande importeren.</p>
+    <p xml:lang="nn">Når du startar programmet første gong, vert det automatisk laga ei ny kalenderfil som følgjer iCalendar-standarden. Men du kan òg oppretta fleire kalendrar eller importera nokon du har frå før.</p>
+    <p xml:lang="pl">Przy wykonywaniu aplikacji po raz pierwszy, tworzony jest plik nowego kalendarza, który przestrzega standardu ical. Alternatywnie, użytkownicy mogą stworzyć dodatkowe kalendarz lub zaimportować już istniejące.</p>
+    <p xml:lang="pt">Ao executar a aplicação pela primeira vez, será criado um ficheiro de calendário novo que segue a norma iCal. Em alternativa, os utilizadores poderão criar calendários adicionais ou importar existentes.</p>
+    <p xml:lang="pt-BR">Ao executar o aplicativo pela primeira vez, um novo arquivo de calendário que segue o padrão ical é criado. Alternativamente, os usuários podem criar calendários adicionais ou importar os existentes.</p>
+    <p xml:lang="sl">Ko poženete program prvič, se ustvari nova koledarska datoteka, po standardu ical. Sicer uporabniki lahko ustvarjajododatne koledarje ali uvozijo obstoječe.</p>
+    <p xml:lang="sv">När programmet körs för första gången skapas en ny kalenderfil som följer ical-standarden. Som alternativ kan användare skapa ytterligare kalendrar eller importera befintliga.</p>
+    <p xml:lang="uk">Під час першого запуску програма створить файл стандартного календаря у форматі ical. Крім того, користувач може створювати додаткові календарі або імпортувати вже створені.</p>
+    <p xml:lang="x-test">xxWhen executing the application for the first time, a new calendar file is created that follows the ical standard. Alternatively, users may create additional calendars or import existing ones.xx</p>
+    <p>Features:</p>
+    <p xml:lang="ca">Característiques:</p>
+    <p xml:lang="ca-valencia">Característiques:</p>
+    <p xml:lang="cs">Vlastnosti:</p>
+    <p xml:lang="da">Funktioner:</p>
+    <p xml:lang="de">Funktionen:</p>
+    <p xml:lang="el">Χαρακτηριστικά:</p>
+    <p xml:lang="en-GB">Features:</p>
+    <p xml:lang="es">Funcionalidades:</p>
+    <p xml:lang="et">Omadused:</p>
+    <p xml:lang="eu">Ezaugarriak:</p>
+    <p xml:lang="fi">Ominaisuuksia:</p>
+    <p xml:lang="fr">Fonctionnalités :</p>
+    <p xml:lang="gl">Funcionalidades:</p>
+    <p xml:lang="ia">Characteristicas:</p>
+    <p xml:lang="id">Fitur:</p>
+    <p xml:lang="it">Funzionalità:</p>
+    <p xml:lang="nl">Mogelijkheden:</p>
+    <p xml:lang="nn">Funksjonar:</p>
+    <p xml:lang="pl">Możliwości:</p>
+    <p xml:lang="pt">Funcionalidades:</p>
+    <p xml:lang="pt-BR">Recursos:</p>
+    <p xml:lang="ru">Возможности:</p>
+    <p xml:lang="sk">Funkcie:</p>
+    <p xml:lang="sl">Možnosti:</p>
+    <p xml:lang="sv">Funktioner:</p>
+    <p xml:lang="uk">Можливості:</p>
+    <p xml:lang="x-test">xxFeatures:xx</p>
+    <p xml:lang="zh-TW">功能：</p>
+    <ul>
+      <li>Agenda</li>
+      <li xml:lang="ca">Agenda</li>
+      <li xml:lang="ca-valencia">Agenda</li>
+      <li xml:lang="cs">Agenda</li>
+      <li xml:lang="da">Agenda</li>
+      <li xml:lang="de">Agenda</li>
+      <li xml:lang="el">Ατζέντα</li>
+      <li xml:lang="en-GB">Agenda</li>
+      <li xml:lang="es">Agenda</li>
+      <li xml:lang="et">Päevakava</li>
+      <li xml:lang="eu">Agenda</li>
+      <li xml:lang="fi">Työsuunnitelma</li>
+      <li xml:lang="fr">Agenda</li>
+      <li xml:lang="gl">Axenda</li>
+      <li xml:lang="ia">Agenda</li>
+      <li xml:lang="id">Agenda</li>
+      <li xml:lang="it">Agenda</li>
+      <li xml:lang="nl">Agenda</li>
+      <li xml:lang="nn">Timeplan</li>
+      <li xml:lang="pl">Rozkład zajęć</li>
+      <li xml:lang="pt">Agenda</li>
+      <li xml:lang="pt-BR">Agenda</li>
+      <li xml:lang="ru">Расписание</li>
+      <li xml:lang="sk">Agenda</li>
+      <li xml:lang="sl">Dnevni red</li>
+      <li xml:lang="sv">Agenda</li>
+      <li xml:lang="uk">Порядок денний</li>
+      <li xml:lang="x-test">xxAgendaxx</li>
+      <li>Events</li>
+      <li xml:lang="ca">Esdeveniments</li>
+      <li xml:lang="ca-valencia">Esdeveniments</li>
+      <li xml:lang="cs">Události</li>
+      <li xml:lang="da">Begivenheder</li>
+      <li xml:lang="de">Ereignisse</li>
+      <li xml:lang="el">Γεγονότα</li>
+      <li xml:lang="en-GB">Events</li>
+      <li xml:lang="es">Eventos</li>
+      <li xml:lang="et">Sündmused</li>
+      <li xml:lang="eu">Gertakizunak</li>
+      <li xml:lang="fi">Tapahtumat</li>
+      <li xml:lang="fr">Évènements</li>
+      <li xml:lang="gl">Eventos</li>
+      <li xml:lang="ia">Eventos</li>
+      <li xml:lang="id">Peristiwa</li>
+      <li xml:lang="it">Eventi</li>
+      <li xml:lang="nl">Afspraken</li>
+      <li xml:lang="nn">Hendingar</li>
+      <li xml:lang="pl">Wydarzenia</li>
+      <li xml:lang="pt">Eventos</li>
+      <li xml:lang="pt-BR">Eventos</li>
+      <li xml:lang="ru">События</li>
+      <li xml:lang="sk">Udalosti</li>
+      <li xml:lang="sl">Dogodki</li>
+      <li xml:lang="sv">Händelser</li>
+      <li xml:lang="uk">Події</li>
+      <li xml:lang="x-test">xxEventsxx</li>
+      <li xml:lang="zh-TW">活動</li>
+      <li>Todos</li>
+      <li xml:lang="ca">Tasques pendents</li>
+      <li xml:lang="ca-valencia">Tasques pendents</li>
+      <li xml:lang="cs">Úkoly</li>
+      <li xml:lang="da">Gøremål</li>
+      <li xml:lang="de">Aufgaben</li>
+      <li xml:lang="el">Εργασίες προς υλοποίηση</li>
+      <li xml:lang="en-GB">To-dos</li>
+      <li xml:lang="es">Listas de tareas</li>
+      <li xml:lang="et">Ülesanded</li>
+      <li xml:lang="eu">Zereginak</li>
+      <li xml:lang="fi">Tehtävät</li>
+      <li xml:lang="fr">Tâches</li>
+      <li xml:lang="gl">Tarefas</li>
+      <li xml:lang="ia">Cosas de facer</li>
+      <li xml:lang="id">Kegiatan</li>
+      <li xml:lang="it">Cose da fare</li>
+      <li xml:lang="nl">Taken</li>
+      <li xml:lang="nn">Gjeremål</li>
+      <li xml:lang="pl">Zadania-do-zrobienia</li>
+      <li xml:lang="pt">Itens Por-Fazer</li>
+      <li xml:lang="pt-BR">Tarefas</li>
+      <li xml:lang="ru">Задачи</li>
+      <li xml:lang="sk">Úlohy</li>
+      <li xml:lang="sl">Naloge</li>
+      <li xml:lang="sv">Uppgifter</li>
+      <li xml:lang="uk">Завдання</li>
+      <li xml:lang="x-test">xxTodosxx</li>
+      <li xml:lang="zh-TW">待辦事項</li>
+      <li>Multiple calendars</li>
+      <li xml:lang="ca">Calendaris múltiples</li>
+      <li xml:lang="ca-valencia">Calendaris múltiples</li>
+      <li xml:lang="da">Flere kalendere</li>
+      <li xml:lang="de">Mehrere Kalender</li>
+      <li xml:lang="el">Πολλαπλά ημερολόγια</li>
+      <li xml:lang="en-GB">Multiple calendars</li>
+      <li xml:lang="es">Múltiples calendarios</li>
+      <li xml:lang="et">Mitme kalendri kasutamise võimalus</li>
+      <li xml:lang="eu">Egunkari anizkoitzak</li>
+      <li xml:lang="fi">Useammat kalenterit</li>
+      <li xml:lang="fr">Agendas multiples</li>
+      <li xml:lang="gl">Varios calendarios</li>
+      <li xml:lang="ia">Calendarios multiple</li>
+      <li xml:lang="id">Multipel kalender</li>
+      <li xml:lang="it">Calendari multipli</li>
+      <li xml:lang="nl">Meerdere agenda's</li>
+      <li xml:lang="nn">Fleire kalendrar</li>
+      <li xml:lang="pl">Wiele kalendarzy</li>
+      <li xml:lang="pt">Vários calendários</li>
+      <li xml:lang="pt-BR">Múltiplos calendários</li>
+      <li xml:lang="ru">Несколько календарей</li>
+      <li xml:lang="sk">Viac kalendárov</li>
+      <li xml:lang="sl">Več koledarjev</li>
+      <li xml:lang="sv">Flera kalendrar</li>
+      <li xml:lang="uk">Користування декількома календарями</li>
+      <li xml:lang="x-test">xxMultiple calendarsxx</li>
+      <li xml:lang="zh-TW">多行事曆</li>
+      <li>Import calendar</li>
+      <li xml:lang="ca">Importa calendaris</li>
+      <li xml:lang="ca-valencia">Importa calendaris</li>
+      <li xml:lang="cs">Importovat kalendář</li>
+      <li xml:lang="da">Importér kalender</li>
+      <li xml:lang="de">Kalender importieren</li>
+      <li xml:lang="el">Εισαγωγή ημερολογίου</li>
+      <li xml:lang="en-GB">Import calendar</li>
+      <li xml:lang="es">Importar calendario</li>
+      <li xml:lang="et">Kalendri importimine</li>
+      <li xml:lang="eu">Inportatu egutegia</li>
+      <li xml:lang="fi">Kalenterin tuonti</li>
+      <li xml:lang="fr">Importer un agenda</li>
+      <li xml:lang="gl">Importar un calendario</li>
+      <li xml:lang="ia">Importa calendario</li>
+      <li xml:lang="id">Impor kalender</li>
+      <li xml:lang="it">Importa calendario</li>
+      <li xml:lang="nl">Agenda importeren </li>
+      <li xml:lang="nn">Kalender­importering</li>
+      <li xml:lang="pl">Importowanie kalendarzy</li>
+      <li xml:lang="pt">Importar o calendário</li>
+      <li xml:lang="pt-BR">Importar calendário</li>
+      <li xml:lang="ru">Импорт календарей</li>
+      <li xml:lang="sk">Import kalendára</li>
+      <li xml:lang="sl">Uvozi koledar</li>
+      <li xml:lang="sv">Importera kalender</li>
+      <li xml:lang="uk">Імпортування календарів</li>
+      <li xml:lang="x-test">xxImport calendarxx</li>
+      <li xml:lang="zh-TW">匯入行事曆</li>
+    </ul>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Calindori on Mobile</caption>
+      <caption xml:lang="ca">El Calindori al mòbil</caption>
+      <caption xml:lang="ca-valencia">El Calindori al mòbil</caption>
+      <caption xml:lang="cs">Calindori na mobilní zařízení</caption>
+      <caption xml:lang="da">Calindori på mobil</caption>
+      <caption xml:lang="el">Calindori σε κινητό</caption>
+      <caption xml:lang="en-GB">Calindori on Mobile</caption>
+      <caption xml:lang="es">Calindori en el móvil</caption>
+      <caption xml:lang="et">Calindori mobiilis</caption>
+      <caption xml:lang="eu">Calindori mugikorrean</caption>
+      <caption xml:lang="fr">Calindori sur plateforme mobile</caption>
+      <caption xml:lang="ia">Calindori sur Mobile</caption>
+      <caption xml:lang="it">Calindori su mobile</caption>
+      <caption xml:lang="nl">Calindori op mobiel</caption>
+      <caption xml:lang="nn">Calindori på mobil</caption>
+      <caption xml:lang="pt">Calindori no Telemóvel</caption>
+      <caption xml:lang="pt-BR">Calindori no celular</caption>
+      <caption xml:lang="ru">Calindori на мобильном устройстве</caption>
+      <caption xml:lang="sl">Calindori na mobilni napravi</caption>
+      <caption xml:lang="sv">Calindori på mobil</caption>
+      <caption xml:lang="uk">Calindori на мобільному телефоні</caption>
+      <caption xml:lang="x-test">xxCalindori on Mobilexx</caption>
+      <image>https://cdn.kde.org/screenshots/calindori/mobile.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Calindori on Desktop</caption>
+      <caption xml:lang="ca">El Calindori a l'escriptori</caption>
+      <caption xml:lang="ca-valencia">El Calindori a l'escriptori</caption>
+      <caption xml:lang="cs">Calindori na počítač</caption>
+      <caption xml:lang="da">Calindori på desktop</caption>
+      <caption xml:lang="el">Calindori σε υπολογιστή γραφείου</caption>
+      <caption xml:lang="en-GB">Calindori on Desktop</caption>
+      <caption xml:lang="es">Calindori en el escritorio</caption>
+      <caption xml:lang="et">Calindori arvutis</caption>
+      <caption xml:lang="eu">Calindori mahaigainean</caption>
+      <caption xml:lang="fr">Calindori sur ordinateur de bureau</caption>
+      <caption xml:lang="ia">Calindori sur scriptorio</caption>
+      <caption xml:lang="it">Calindori su desktop</caption>
+      <caption xml:lang="nl">Calindori op bureaublad</caption>
+      <caption xml:lang="nn">Calindori på PC</caption>
+      <caption xml:lang="pt">Calindori no PC</caption>
+      <caption xml:lang="pt-BR">Calindori na área de trabalho</caption>
+      <caption xml:lang="ru">Calindori на компьютере</caption>
+      <caption xml:lang="sl">Calindori na namizju</caption>
+      <caption xml:lang="sv">Calindori på skrivbord</caption>
+      <caption xml:lang="uk">Calindori на комп'ютері</caption>
+      <caption xml:lang="x-test">xxCalindori on Desktopxx</caption>
+      <image>https://cdn.kde.org/screenshots/calindori/desktop.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://invent.kde.org/plasma-mobile/calindori</url>
+  <url type="bugtracker">https://bugs.kde.org/describecomponents.cgi?product=calindori</url>
+  <releases>
+    <release version="1.2.90" date="2020-10-30">
+      <description>
+        <p>New features, improvements and fixes</p>
+        <ul>
+          <li>When running on Plasma, use the Solid wake-up features</li>
+          <li>Fix the positioning of the delete confirmation dialog</li>
+          <li>Conditionally hide completed tasks in the All Tasks view</li>
+          <li>Support external calendar files that can be updated by another application</li>
+          <li>Fix display of repeating events on day and month views</li>
+          <li>On the calendar month view, show all-day tasks into the day that they are part of</li>
+          <li>Show multi day events properly on day and week views</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.2" date="2020-09-11">
+      <description>
+        <p>Several fixes and new features</p>
+        <ul>
+          <li>Calendar import issue on desktop has been fixed</li>
+          <li>Mobile-desktop convergence improvements</li>
+          <li>Start date, due and alarm functionality added to tasks</li>
+          <li>When creating a new event, a reminder is automatically added</li>
+          <li>Week and day views have been created</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>calindori</binary>
+  </provides>
+</component>
